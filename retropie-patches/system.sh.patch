@@ -1,0 +1,11 @@
+--- system.sh	2020-07-09 07:54:51.329901142 +0000
++++ system_patched.sh	2020-07-09 07:56:16.527126139 +0000
+@@ -362,7 +362,7 @@
+             Vero4K|Vero4KPlus)
+                 __platform="vero4k"
+                 ;;
+-            "Allwinner sun8i Family")
++            "Allwinner sun8i Family"|sun7i)
+                 __platform="armv7-mali"
+                 ;;
+             *)

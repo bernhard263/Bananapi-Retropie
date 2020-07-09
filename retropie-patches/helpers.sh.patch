@@ -1,0 +1,10 @@
+--- ../RetroPie-Setup/scriptmodules/helpers.sh	2020-07-09 07:54:51.189905708 +0000
++++ helpers.sh	2020-07-09 08:02:40.465031756 +0000
+@@ -211,6 +211,7 @@
+             ;;
+         mali-fbdev)
+             isPlatform "vero4k" && pkg=""
++		isPlatform "armv7-mali" && pkg=""
+             ;;
+         # handle our custom package alias LINUX-HEADERS
+         LINUX-HEADERS)
