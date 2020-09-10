@@ -5,7 +5,7 @@
                  __platform="vero4k"
                  ;;
 -            "Allwinner sun8i Family")
-+            "Allwinner sun8i Family"|sun7i)
++            "Allwinner sun8i Family"|"Allwinner sun7i (A20) Family"|sun7i)
                  __platform="armv7-mali"
                  ;;
              *)
