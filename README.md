@@ -1,10 +1,14 @@
 # Bananapi-Retropie
 
--- Update October 2020 --
+-- Update February 2021 --
 
-While this still works, I consider it obsolete and advise against installing it. I noticed an annoying screen tearing / scrolling lag issue that makes this Retropie setup not fun to play. I am currently working on installing Lakka on the Banana Pi. The older Lakka 2.1-rc5 with 3.4x Kernel already works, and I had some success compiling and installing the newest Lakka version that has not been released yet. It works with the very latest linux kernels (5.x) and contains much newer drivers for the Mali GPU that allow for a much smoother experience.
+While this still works, I consider it obsolete and advise against installing it. I noticed an annoying screen tearing / scrolling lag issue that makes this Retropie setup not fun to play. If you want to use the Banana Pi as a retro gaming machine, please use my build of Lakka for the Banana Pi instead, see the links below.
 
+Forum thread: https://forums.libretro.com/t/lakka-image-for-banana-pi-m1/32244
 
+Download link: https://drive.google.com/drive/folders/1tjoKSu9DAnC-2eplAUqDt2wnqSZ_ZDs0
+
+-- Original --
 
 Scripts for installing Retropie on Banana Pi M1 (Allwinner A20)
 
